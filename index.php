@@ -24,6 +24,8 @@ and open the template in the editor.
             echo 'Sexto bloque <br/><br/>';
             
             print "Añadido por alberto";
+            
+            print "Yepa gente"
         ?>
     </body>
 </html>
