@@ -25,7 +25,7 @@ and open the template in the editor.
             
             print "Añadido por alberto";
             
-            print "Yepa gente"
+            print "Yepa gente yo soy lolito";
         ?>
     </body>
 </html>
