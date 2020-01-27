@@ -18,6 +18,10 @@ and open the template in the editor.
             echo 'Tercer bloque <br/><br/>';
             
             echo 'Cuarto bloque <br/><br/>';
+            
+             echo 'Quinto bloque <br/><br/>';
+            
+            echo 'Sexto bloque <br/><br/>';
         ?>
     </body>
 </html>
