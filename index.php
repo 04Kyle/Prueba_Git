@@ -30,10 +30,7 @@ and open the template in the editor.
             echo "Yepa1 gente yo soy lolito";
             echo "Yepa2 gente yo soy lolito";
             
-                        echo "Yepa1 gente yo soy lolito";
-            echo "Yepa2 gente yo soy lolito";            echo "Yepa1 gente yo soy lolito";
-            echo "Yepa2 gente yo soy lolito";            echo "Yepa1 gente yo soy lolito";
-            echo "Yepa2 gente yo soy lolito";
+                      
         ?>
     </body>
 </html>
