@@ -28,11 +28,7 @@ and open the template in the editor.
             echo "Yepa gente yo soy lolito";
             
             echo "texto1";
-            echo "texto2";
-            
-             
-            
-            
+            echo "texto2";       
                       
         ?>
     </body>
